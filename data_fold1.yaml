@@ -1,0 +1,6 @@
+names:
+- monkey
+- bison
+nc: 2
+train: ./train_fold1.txt
+val: ./val_fold1.txt
